@@ -1,0 +1,33 @@
+body{
+    padding-top: 0px;
+}
+
+#contenido {
+    padding-top: 120px;
+}
+ul {
+    position: fixed;
+    list-style-type: none;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 50px;
+    margin: -8px;
+  }
+  
+  li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  li a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  li a:hover {
+    background-color: #ccc;
+  }
+  
